@@ -25,4 +25,4 @@ BOARD_VENDOR_SEPOLICY_DIRS += $(JAMESDSP_PATH)/sepolicy/vendor
 
 PRODUCT_PACKAGES += \
     libjamesdsp \
-    JamesDSPManagerThePBone
+    JamesDSPManager

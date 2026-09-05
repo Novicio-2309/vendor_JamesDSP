@@ -16,9 +16,9 @@ soong_namespace {
 }
 
 android_app_import {
-	name: "JamesDSPManager",
+	name: "JamesDSPManagerThePBone",
 	owner: "JamesDSP",
-	apk: "proprietary/system/app/JamesDSPManager/JamesDSPManagerThePBone.apk",
+	apk: "proprietary/system/app/JamesDSPManagerThePBone/JamesDSPManagerThePBone.apk",
     overrides: ["AudioFX"],
 	certificate: "platform",
 	dex_preopt: {
